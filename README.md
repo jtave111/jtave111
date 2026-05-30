@@ -1,10 +1,10 @@
 <h1 align="center">João Victor</h1>
 <p align="center">
-  <em>Desenvolvedor Fullstack</em>
+  <em>Desenvolvedor Fullstack — Backend, Segurança e Sistemas de Baixo Nível</em>
 </p>
 <p align="center">
   <a href="https://github.com/jtave111">
-    <img src="https://komarev.com/ghpvc/?username=jtave111&style=flat-square&color=555"/>
+    <img src="https://komarev.com/ghpvc/?username=jtave111&style=flat-square&color=58A6FF&label=profile%20views" alt="Profile views"/>
   </a>
 </p>
 
@@ -30,21 +30,21 @@ Implementação de segurança em aplicações Spring: funcionamento interno da c
 ### Stack
 
 **Sistemas & Baixo Nível**<br>
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Assembly](https://img.shields.io/badge/-Assembly-555555?style=flat-square&logoColor=white)
-![GDB](https://img.shields.io/badge/-GDB-A8B9CC?style=flat-square&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=659AD2)
+![CMake](https://img.shields.io/badge/CMake-0D1117?style=flat-square&logo=cmake&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Assembly](https://img.shields.io/badge/Assembly-0D1117?style=flat-square&logoColor=FFFFFF)
+![GDB](https://img.shields.io/badge/GDB-0D1117?style=flat-square&logoColor=FFFFFF)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=5391FE)
 
 **Backend**<br>
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23%20%2F%20.NET-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-0D1117?style=flat-square&logo=springsecurity&logoColor=6DB33F)
+![C#](https://img.shields.io/badge/C%23%20%2F%20.NET-0D1117?style=flat-square&logo=dotnet&logoColor=9179F2)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
 
 ---
 
@@ -61,9 +61,9 @@ Implementação de segurança em aplicações Spring: funcionamento interno da c
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jtave111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=jtave111&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=jtave111&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF"/>
+  <img height="165" alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=jtave111&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtave111&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtave111&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </p>
