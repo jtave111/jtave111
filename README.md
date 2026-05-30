@@ -1,9 +1,7 @@
 <h1 align="center">João Victor</h1>
-
 <p align="center">
   <em>Desenvolvedor Fullstack</em>
 </p>
-
 <p align="center">
   <a href="https://github.com/jtave111">
     <img src="https://komarev.com/ghpvc/?username=jtave111&style=flat-square&color=555"/>
@@ -12,30 +10,26 @@
 
 ---
 
-Desenvolvedor fullstack focado em construção de APIs REST, arquitetura de backend e interfaces modernas. Tenho interesse sério em programação de sistemas e segurança — áreas onde estudo de forma aprofundada e os projetos pessoais são o campo de prática.
+Desenvolvedor fullstack focado na construção de APIs REST, arquitetura de backend e interfaces modernas. Tenho interesse sério em programação de sistemas e segurança — áreas que estudo de forma aprofundada e onde os projetos pessoais são meu campo de prática.
 
 ---
 
 ### Interesses
 
-**Programação de rede em baixo nível**
-
+**Programação de rede de baixo nível**<br>
 Estudo de protocolos além das abstrações de alto nível: construção manual de pacotes ICMP, varredura de portas via raw sockets TCP sem bibliotecas de terceiros, e entendimento real da pilha de rede — como o kernel lida com `CAP_NET_RAW`, impacto de TTL em fingerprinting de SO, e a diferença entre conectar a uma porta e enviar um SYN bruto.
 
-**Segurança ofensiva e defensiva**
+**Segurança ofensiva e defensiva**<br>
+Como frameworks C2 funcionam internamente — orquestração de agentes, canais de comunicação assíncronos, e modelagem de uma sessão de reconhecimento de rede. Do lado defensivo, como plataformas SOC ingerem telemetria, detectam anomalias e apresentam inteligência de vulnerabilidades de forma acionável.
 
-Como frameworks C2 funcionam internamente — orquestração de agents, canais de comunicação assíncronos, e modelagem de uma sessão de reconhecimento de rede. Do lado defensivo, como plataformas SOC ingerem telemetria, detectam anomalias e apresentam inteligência de vulnerabilidades de forma acionável.
-
-**Segurança em Java**
-
-Implementação de segurança em aplicações Spring: funcionamento interno do filtro do Spring Security, autenticação stateless com JWT, RBAC com múltiplos roles, BCrypt, e design de múltiplas camadas de autenticação no mesmo sistema — JWT Bearer para operadores humanos e API Keys para agentes automatizados.
+**Segurança em Java**<br>
+Implementação de segurança em aplicações Spring: funcionamento interno da cadeia de filtros do Spring Security, autenticação stateless com JWT, RBAC com múltiplos roles, BCrypt, e design de múltiplas camadas de autenticação no mesmo sistema — JWT Bearer para operadores humanos e API Keys para agentes automatizados.
 
 ---
 
 ### Stack
 
-**Sistemas & Baixo Nível**
-
+**Sistemas & Baixo Nível**<br>
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
@@ -44,8 +38,7 @@ Implementação de segurança em aplicações Spring: funcionamento interno do f
 ![GDB](https://img.shields.io/badge/-GDB-A8B9CC?style=flat-square&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-**Backend**
-
+**Backend**<br>
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
@@ -71,7 +64,6 @@ Implementação de segurança em aplicações Spring: funcionamento interno do f
   <img src="https://github-readme-stats.vercel.app/api?username=jtave111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=jtave111&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtave111&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
