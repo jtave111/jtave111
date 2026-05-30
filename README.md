@@ -31,16 +31,24 @@ Implementação de segurança em aplicações Spring: funcionamento interno do f
 
 ### Stack
 
+**Sistemas & Baixo Nível**
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Assembly](https://img.shields.io/badge/-Assembly-555555?style=flat-square&logoColor=white)
+![GDB](https://img.shields.io/badge/-GDB-A8B9CC?style=flat-square&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+**Backend**
+
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23%20%2F%20.NET-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -48,8 +56,8 @@ Implementação de segurança em aplicações Spring: funcionamento interno do f
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Zombie-Keeper](https://github.com/jtave111/Zombie-Keeper) | Framework C2 com servidor Java, arsenal C++17 com raw sockets e dashboard Next.js | Java · Spring Security · C++ · Next.js |
-| [NetSentinel](https://github.com/jtave111/NetSentinel) | Plataforma SOC para patch management com agentes PowerShell e detecção de CVEs via LLM local | C# · .NET 10 · Next.js · PowerShell |
+| [Zombie-Keeper](https://github.com/jtave111/Zombie-Keeper) | Framework C2 com servidor Java, arsenal C++17 com raw sockets e dashboard web | Java · Spring Security · C++17 · Raw Sockets |
+| [NetSentinel](https://github.com/jtave111/NetSentinel) | Plataforma SOC para patch management com agentes PowerShell e detecção de CVEs via LLM local | C# · .NET 10 · PowerShell · Ollama |
 | [SpiderNet](https://github.com/jtave111/SpiderNet) | Ferramenta de rede em C++ | C++ |
 
 ---
@@ -58,13 +66,9 @@ Implementação de segurança em aplicações Spring: funcionamento interno do f
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jtave111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtave111&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=jtave111&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtave111&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jtave111&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
 </p>
