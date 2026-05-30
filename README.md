@@ -61,9 +61,12 @@ Implementação de segurança em aplicações Spring: funcionamento interno da c
 ### Stats
 
 <p align="center">
-  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=jtave111&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF"/>
+  <img alt="Resumo do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jtave111&theme=github_dark"/>
+</p>
+<p align="center">
   <img height="165" alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=jtave111&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"/>
 </p>
 <p align="center">
-  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtave111&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jtave111&theme=github_dark"/>
+  <img alt="Linguagens por commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jtave111&theme=github_dark"/>
 </p>
