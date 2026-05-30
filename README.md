@@ -17,13 +17,13 @@ Desenvolvedor fullstack focado na construção de APIs REST, arquitetura de back
 ### Interesses
 
 **Programação de rede de baixo nível**<br>
-Estudo de protocolos além das abstrações de alto nível: construção manual de pacotes ICMP, varredura de portas via raw sockets TCP sem bibliotecas de terceiros, e entendimento real da pilha de rede — como o kernel lida com `CAP_NET_RAW`, impacto de TTL em fingerprinting de SO, e a diferença entre conectar a uma porta e enviar um SYN bruto.
+Como a rede funciona abaixo das abstrações de alto nível: o comportamento real dos protocolos, a manipulação direta de pacotes e sockets brutos, e como a pilha de rede é tratada pelo sistema operacional.
 
 **Segurança ofensiva e defensiva**<br>
-Como frameworks C2 funcionam internamente — orquestração de agentes, canais de comunicação assíncronos, e modelagem de uma sessão de reconhecimento de rede. Do lado defensivo, como plataformas SOC ingerem telemetria, detectam anomalias e apresentam inteligência de vulnerabilidades de forma acionável.
+Os dois lados da segurança: como ferramentas ofensivas são arquitetadas por dentro e como plataformas defensivas coletam telemetria, detectam anomalias e transformam esses dados em inteligência acionável.
 
 **Segurança em Java**<br>
-Implementação de segurança em aplicações Spring: funcionamento interno da cadeia de filtros do Spring Security, autenticação stateless com JWT, RBAC com múltiplos roles, BCrypt, e design de múltiplas camadas de autenticação no mesmo sistema — JWT Bearer para operadores humanos e API Keys para agentes automatizados.
+Implementação de segurança em aplicações Spring: autenticação, autorização e o design de múltiplas camadas de proteção em APIs.
 
 ---
 
